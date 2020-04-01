@@ -18,3 +18,6 @@ Finally, after hyper-parameters turning, random forest as the best performed mod
 
 <img src="xgb.jpg" width="40%">XGBoost
 
+<img src="knn.jpg" width="40%"> KNN
+
+<img src="svm.jpg" width="40%"> SVM
