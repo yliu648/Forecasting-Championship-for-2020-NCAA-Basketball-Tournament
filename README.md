@@ -1,5 +1,5 @@
 # March-Data-Crunch-Madness
-Executive Summary
+# Executive Summary
 In this project, the goal is to use machine learning models to predict the probabilities of team1 winning over team2 in men’s NCAA tournament and use the probability to further analyze upsets in 2020 season
 
 To better utilize the data, the missing values have been filled out respectively, the categorical variables have been transferred to dummy variables and some meaningless variables have been dropped out
