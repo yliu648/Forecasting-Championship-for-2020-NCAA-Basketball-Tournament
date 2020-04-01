@@ -1,4 +1,5 @@
 # March-Data-Crunch-Madness
+
 ## Executive Summary
 In this project, the goal is to use machine learning models to predict the probabilities of team1 winning over team2 in men’s NCAA tournament and use the probability to further analyze upsets in 2020 season
 
@@ -8,5 +9,4 @@ Five machine learning models have been used: logistic regression, random forest,
 
 Finally, after hyper-parameters turning, random forest as the best performed model has been used to do further analysis. Accordingly, we used probability to find the potential dark horses and underlying upsets
 
-##Results and Evaluation – ROC Curve
-![ROC Curve](ROC.png)
+
