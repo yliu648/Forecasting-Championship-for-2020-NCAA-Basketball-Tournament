@@ -12,12 +12,9 @@ Finally, after hyper-parameters turning, random forest as the best performed mod
 ![ROC Curve](ROC.png)
 
 ## Confusion Matrix
-Random Forest
-<img src="RF Orange.jpg" width="40%">
+<img src="RF Orange.jpg" width="40%">Random Forest
 
-Logistic Regression
-<img src="LR.jpg" width="40%">
+<img src="LR Blue.jpg" width="40%">Logistic Regression
 
-XGBoost
-<img src="xgb.jpg" width="40%">
+<img src="xgb.jpg" width="40%">XGBoost
 
